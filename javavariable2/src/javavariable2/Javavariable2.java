@@ -1,7 +1,7 @@
 
 package javavariable2;
 
-public class Javavariable2 {
+public class JavaVariable2 {
 
     public static void main(String[] args) {
         
