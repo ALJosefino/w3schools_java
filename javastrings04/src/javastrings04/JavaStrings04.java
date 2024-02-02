@@ -1,5 +1,5 @@
 
-package javastring04;
+package javastrings04;
 
 public class JavaStrings04 {
 
