@@ -1,8 +1,8 @@
 
-package javastring07;
+package javastrings09;
 
 
-public class JavaString07 {
+public class JavaStrings09 {
 
     
     public static void main(String[] args) {
