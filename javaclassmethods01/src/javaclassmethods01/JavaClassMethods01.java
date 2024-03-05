@@ -17,7 +17,7 @@ public class JavaClassMethods01 {
 
         Main myObj = new Main(); // Create an object of Main
     
-    myObj.myPublicMethod(); // Call the public method on the object
+        myObj.myPublicMethod(); // Call the public method on the object
         
     }
     
