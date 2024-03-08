@@ -6,7 +6,6 @@ package javaconstructors00;
 public class Main {
 
     int x;  // Create a class attribute
-    
-    boolean x;
+ 
     
 }
