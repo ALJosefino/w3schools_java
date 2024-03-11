@@ -1,20 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package javaconstructors02;
 
-/**
- *
- * @author andre
- */
 public class JavaConstructors02 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Main myCar = new Main(1969, "Mustang");
+    
+        System.out.println(myCar.modelYear + " " + myCar.modelName);
+        
     }
     
 }
